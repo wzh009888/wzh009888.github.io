@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/jishulei.jpg" class="floatpic" width="200" height="200">
+<img src="/images/wangziheng.jpg" class="floatpic" width="200" height="200">
 
 Here is **Ziheng Wang (王子衡)**.
 
