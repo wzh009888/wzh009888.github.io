@@ -8,7 +8,7 @@ title: Ziheng Wang
 owner:
   name: Ziheng Wang
   # avatar: Ziheng Wang
-  bio: Be happy.☺️
+  bio: Just try.
   email: wzh009888@gmail.com
   cv: /file/chinese.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "WgKrDUMqDUmNfjoCKgH_nDYedw5yL_F5esb_9Q5oUGk"
+# google_verify: "WgKrDUMqDUmNfjoCKgH_nDYedw5yL_F5esb_9Q5oUGk"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -52,7 +52,7 @@ links:
     url: /demos/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Singapore
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -81,9 +81,8 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: whyte
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/11/22 by Hanlin Cai.
