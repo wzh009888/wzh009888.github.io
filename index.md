@@ -38,6 +38,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ---
-[![Visit tracker](https://clustrmaps.com/map_v2.png?cl=1768c4&w=a&t=n&d=pQyQkYWJ9EDu14vZFBycodEL-DKMU1JphEVRBVMsQAc&co=ffffff)](https://clustrmaps.com/site/1bxk2)
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cKGGVr08aOTHrS3bQfbR910iaBJXmufa0iB20Er5ovg&cl=ffffff&w=a"></script>
+[![Visit tracker](https://clustrmaps.com/map_v2.png?cl=1768c4&w=a&t=n&d=pQyQkYWJ9EDu14vZFBycodEL-DKMU1JphEVRBVMsQAc&co=ffffff)](https://clustrmaps.com/site/1bxtl)
+
 
