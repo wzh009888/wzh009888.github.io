@@ -6,11 +6,11 @@ layout: page
 
 <img src="/images/jishulei.jpg" class="floatpic" width="200" height="200">
 
-Here is **Shulei Ji (Shirly, 吉姝蕾)**.
+Here is **Ziheng Wang (王子衡)**.
 
-I am a PhD student majoring in **CS** at Xi'an Jiaotong University, advised by [Prof. Xinyu Yang](https://gr.xjtu.edu.cn/en/web/xyyang/).
+I am a PhD student majoring in **CS** at Xi'an Jiaotong University, advised by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *taylorji[at]stu[dot]xjtu[dot]edu[dot]cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *wzh009888@gmail.com*
 
 <br>
 
