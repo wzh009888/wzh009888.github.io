@@ -15,9 +15,9 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 
 ## Research Experiences
 ### Parallel Computing
-- Sep 2019 - now
-- Supported by [Prof. Xinyu Yang](https://gr.xjtu.edu.cn/en/web/xyyang/)
-- Research Topics: Symbolic Music Generation, Conditional and Controllable Music Generation, Deep Generative Models<br>
+- Sep 2018 - now
+- Supported by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457)
+- Research Topics: MPI communication modeling and optimization, computational fluid dynamics, High-performance Cryptography<br>
 
 ### Music Emotion Recognition
 - Aug 2021 - Aug 2022
@@ -25,15 +25,15 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 - Research Topics: Large-scale Musical Emotion Dataset Construction, Static and Dynamic Music Emotion Recognition
 
 ## Teaching Assistant
-- May 2021 - June 201: Graph Theory and Its Applications, XJTU
-- May 2022 - June 202: Graph Theory and Its Applications, XJTU
+- Apr. 2020 - Jul. 2019: Assembly Language, XJTU
 
 
 ## Reviewer
-- ACM Computing Surveys
+<!-- - ACM Computing Surveys
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Neural Network and Learning Systems
-- Multimedia Systems
+- Multimedia Systems -->
+IEEE/ACM Transactions on computational biology and bioinformatics
 
 ## Scholarships
 
@@ -61,7 +61,7 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 - Seq 2016-2018：Merit Student, NPU
 
 
-## Memberships
+<!-- ## Memberships
 
 - Dec 2023 - Dec 2024：AAAI Student Membership
-- Jun 2023 - Jun 2024：IEEE Student Membership, IEEE SMC Membership
+- Jun 2023 - Jun 2024：IEEE Student Membership, IEEE SMC Membership -->
