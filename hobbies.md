@@ -6,10 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Playing Balls
-### Table Tennis 🏓❤️
-
-### Badminton 🏸❤️
+## Singing
 
 ## Taking photos 📷❤️
 <div class="third">
