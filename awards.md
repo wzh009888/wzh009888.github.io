@@ -16,13 +16,27 @@ Lastest Update: 27th Nov 2023 &nbsp; 
 ## Research Experiences
 ### Parallel Computing
 - Sep 2018 - now
-- Supported by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457)
+- Supervised by [Prof. Heng Chen](https://gr.xjtu.edu.cn/web/hengchen) (2018-2021)
+- Supervised by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457) (2021-2024)
 - Research Topics: MPI communication modeling and optimization, computational fluid dynamics, High-performance Cryptography<br>
 
-### Music Emotion Recognition
+### Parallel Computing
+- Sep 2018 - now
+- Supervised by [Prof. Heng Chen](https://gr.xjtu.edu.cn/web/hengchen) (2018-2021)
+- Supervised by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457) (2021-2024)
+- Research Topics: MPI communication modeling and optimization, computational fluid dynamics, High-performance Cryptography<br>
+
+### High-Performance Cryptography
+- Sep 2018 - now
+- Supported by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457)
+- Research Topics: Parallel Algorithm Designs of Post-quantum Cryptography such as XMSS, LMS and SPHINCS+<br>
+
+
+
+<!-- ### Music Emotion Recognition
 - Aug 2021 - Aug 2022
 - Supported by Huawei Technologies Co., Ltd. - Major Participant
-- Research Topics: Large-scale Musical Emotion Dataset Construction, Static and Dynamic Music Emotion Recognition
+- Research Topics: Large-scale Musical Emotion Dataset Construction, Static and Dynamic Music Emotion Recognition -->
 
 ## Teaching Assistant
 - Apr. 2020 - Jul. 2019: Assembly Language, XJTU
