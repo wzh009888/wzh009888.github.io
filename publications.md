@@ -18,23 +18,21 @@ Lastest Update: 16th Dec 2023&nbsp;
 
 - [Extending $\tau$-Lop to model MPI blocking primitives on shared memory](https://doi.org/10.1007/s11227-022-04352-3)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen<br>The Journal of Supercomputing (TJSC), 2022, 78(9): 12046–12069<br>CCF C
 
+- [SunwayURANS: 3D full annulus URANS simulations of transonic axial compressors on Sunway TaihuLight](https://doi.org/10.1007/s11227-022-04628-8)<br>Heng Chen, **Ziheng Wang**, Xi Xiao, Jingbo Li, Xiaoshe Dong, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 78(17): 19167–19187<br>CCF C, first student author
+
   <br>
 
 ## Other Journal Articles
 
-- [SunwayURANS: 3D full annulus URANS simulations of transonic axial compressors on Sunway TaihuLight](https://doi.org/10.1007/s11227-022-04628-8)<br>Heng Chen, **Ziheng Wang**, Xi Xiao, Jingbo Li, Xiaoshe Dong, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 78(17): 19167–19187<br>CCF C
+
 
   <br>
 
 ## Conference Paper
 
-<!-- - [MusER: Musical Element-Based Regularization for Generating Symbolic Music with Emotion]()<br>**Shulei Ji**, Xinyu Yang<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI)<br> Vancouver, Canada. February, 2024.
+- [A hybrid CPU/GPU scheme for optimizing ChaCha20 stream cipher]()<br>**Ziheng Wang**, Heng Chen, Weilin Cai<br>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), pp 1171-1178, 2021<br> CCF C
 
-- [Emotion-Conditioned Melody Harmonization with Hierarchical Variational Autoencoder](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Shulei Ji**, Xinyu Yang<br>The 2023 IEEE Conference on Systems, Man, and Cybernetics (IEEE SMC 2023)<br> Honolulu, Oahu, Hawaii, USA. Octorber, 2023.
-
-- [ADFF: Attention Based Deep Feature Fusion Approach for Music Emotion Recognition](https://www.isca-speech.org/archive/pdfs/interspeech_2022/huang22d_interspeech.pdf)<br>Zi Huang, **Shulei Ji**, Zhilan Hu, Chuangjian Cai, Jing Luo, Xinyu Yang<br>INTERSPEECH 2022<br>Incheon Songdo ConvensiA, Korea. September, 2022.
-
-- [MG-VAE: Deep Chinese folk songs generation with specific regional styles](https://link.springer.com/chapter/10.1007/978-981-15-2756-2_8)<br>Jing Luo, Xinyu Yang, **Shulei Ji**, Juan Li<br>The 7th Conference on Sound and Music Technology (CSMT 2019)<br>Harbin, China. December 2019. -->
+- [Flexible supervision system: a fast fault-tolerance strategy for cloud applications in cloud-edge collaborative environments]()<br>Weilin Cai, Heng Chen, Zhimin Zhuo, **Ziheng Wang**, Ninggang An<br>IEEE International Symposium on Parallel and Distributed Processing with Applications (NPC), pp 108-113, 2022<br> CCF C
 
   <br>
 
