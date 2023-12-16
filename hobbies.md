@@ -10,15 +10,26 @@ title: Hobbies
 
 ## Taking photos 📷❤️
 <div class="third">
-<img src="/images/photo1.jpg">
-<img src="/images/photo4.jpg">
-<img src="/images/photo5.jpg">
+<img src="/images/1.jpg">
+<img src="/images/2.jpg">
+<img src="/images/3.jpg">
 </div>
 
 <div class="third">
-<img src="/images/photo8.jpg">
-<img src="/images/photo6.jpg">
-<img src="/images/photo7.jpg">
+<img src="/images/4.jpg">
+<img src="/images/5.jpg">
+<img src="/images/6.jpg">
+</div>
+
+<div class="third">
+<img src="/images/7.jpg">
+<img src="/images/8.jpg">
+<img src="/images/9.jpg">
+</div>
+
+<div class="second">
+<img src="/images/10.jpg">
+<img src="/images/12.jpg">
 </div>
 
 <br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
