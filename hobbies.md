@@ -11,13 +11,13 @@ title: Hobbies
 ## Taking photos 📷❤️
 <div class="third">
 <img src="/images/1.jpg">
-<img src="/images/7.jpg">
+<img src="/images/5.jpg">
 <img src="/images/3.jpg">
 </div>
 
 <div class="third">
 <img src="/images/4.jpg">
-<img src="/images/5.jpg">
+<img src="/images/7.jpg">
 <img src="/images/6.jpg">
 </div>
 
