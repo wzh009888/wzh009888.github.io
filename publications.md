@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 16h Dec 2023&nbsp;  
+Lastest Update: 16th Dec 2023&nbsp;  
 <!--[中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)-->
 
 ## Journal Articles of the First Author
