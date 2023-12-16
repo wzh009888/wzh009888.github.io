@@ -8,9 +8,9 @@ Lastest Update: 16th Dec 2023&nbsp;
 <!--[中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)-->
 
 ## Journal Articles of the First Author
-- [Efficient GPU implementations of post-quantum signature XMSS](https://doi.org/10.1109/TPDS.2022.3233348)<br>**Ziheng Wang**, Xiaoshe Dong, Heng Chen, Yan Kang<br>IEEE Transaction on Parallel and Distributed Systems (TPDS), 2023, 34(3): 938-954<br>CCF A
+- [Efficient GPU implementations of post-quantum signature XMSS](https://doi.org/10.1109/TPDS.2022.3233348)<br>**Ziheng Wang**, Xiaoshe Dong, Heng Chen, Yan Kang<br>IEEE Transaction on Parallel and Distributed Systems (TPDS), 2023, 34(3): 938-954<br>Jun 2023, CCF A
 
-- [LogSC: Model-based one-sided communication performance estimation](https://doi.org/10.1016/j.future.2022.02.004)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Xingjun Zhang.<br>Future Generation Computer Systems (FGCS), 132: 25-39, 2022<br>Q1
+- [LogSC: Model-based one-sided communication performance estimation](https://doi.org/10.1016/j.future.2022.02.004)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Xingjun Zhang.<br>Future Generation Computer Systems (FGCS), 132: 25-39, 2022<br>Feb 2022, Q1, 交大最具, 中科院2区
 
 - [C-Lop: Accurate contention-based modeling of MPI concurrent communication](https://doi.org/10.1016/j.parco.2022.102925)<br>**Ziheng Wang**, Heng Chen, Weilin Cai, Xiaoshe Dong, Xingjun Zhang<br>Parallel Computing (PC), 2022, 111: 102925<br>CCF B
 
