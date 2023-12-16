@@ -60,9 +60,6 @@ Lastest Update: 16th Dec 2023 &nbsp; 
 
 - The 3rd China Parallel Application Challenge on domestic CPU (CPC2019): National bronze prize (7th place), Research on optimal fuel supply strategy of aircraft centre of mass balance, 2019
   
-## Honors
+<!-- ## Honors -->
 
-- Seq 2023: Excellent Post-Graduate, XJTU
-- Seq 2021: Excellent Post-Graduate, XJTU
-- June 2019：Outstanding Graduation Thesis, NPU 
-- Seq 2016-2018：Merit Student, NPU
+<!-- - Seq 2023: Excellent Post-Graduate, XJTU -->
