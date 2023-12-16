@@ -49,8 +49,8 @@ links:
     url: /hobbies/
   # - title: Notes
     # url: /notes/
-  # - title: Demos
-  #   url: /demos/
+  - title: Demos
+    url: /demos/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Singapore

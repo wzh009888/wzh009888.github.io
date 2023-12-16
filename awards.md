@@ -10,7 +10,7 @@ Lastest Update: 16th Dec 2023 &nbsp; 
 ## Educational Background
 
 - **Sep 2021 - now:** Xi'an Jiaotong University (PhD candidate)
-- **Nov 2023 - Oct 2023:** National University of Singapre (CSC Funded)
+- **Nov 2023 - Oct 2023:** National University of Singapore (CSC Funded)
 - **Sep 2018 - Jun 2021:** Xi'an Jiaotong University (MESc)
 - **Sep 2014 - Jun 2018:** Hefei University of Technology (BEng)
 

@@ -8,7 +8,7 @@ title: Demos
 
 ### 2023  
 
----
+<!-- ---
 
 A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges<br>
 
@@ -45,7 +45,7 @@ A Survey on Deep Learning for Symbolic Music Generation: Representations, Algori
 - [**Paper link**](https://ieeexplore.ieee.org/abstract/document/10063204), [**code repository**](https://github.com/Tayjsl97/RL-Chord), [**demo page**](https://Tayjsl97.github.io/demos/tnnls)
 <br>
 
----
+--- -->
 
 <img src="/images/demo2.jpg" class="nonepic" width="220" height="300"/>
 
