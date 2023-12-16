@@ -16,11 +16,11 @@ Lastest Update: 16th Dec 2023&nbsp;
 
 - [Parallel SHA 256 on SW26010 many-core processor for hashing of multiple messages](https://doi.org/10.1007/s11227-022-04750-7)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Yan Kang, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 79(2): 2332–2355<br>CCF C, 交大知名
 
-- [Extending τ-Lop to model MPI blocking primitives on shared memory](https://doi.org/10.1007/s11227-022-04352-3)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen<br>The Journal of Supercomputing (TJSC), 2022, 78(9): 12046–12069<br>CCF C
-
 - [SunwayURANS: 3D full annulus URANS simulations of transonic axial compressors on Sunway TaihuLight](https://doi.org/10.1007/s11227-022-04628-8)<br>Heng Chen, **Ziheng Wang**, Xi Xiao, Jingbo Li, Xiaoshe Dong, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 78(17): 19167–19187<br>CCF C, first student author
 
-- [Client-aware negotiation for secure and efficient data transmission](https://doi.org/10.1007/s11227-022-04628-8)<br>**Ziheng Wang**, Heng Chen, Weiguo Wu<br>Energies, 2020, 21(13): 5777<br>SCI
+- [Extending τ-Lop to model MPI blocking primitives on shared memory](https://doi.org/10.1007/s11227-022-04352-3)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen<br>The Journal of Supercomputing (TJSC), 2022, 78(9): 12046–12069<br>CCF C
+
+- [Client-aware negotiation for secure and efficient data transmission](https://doi.org/10.3390/en13215777)<br>**Ziheng Wang**, Heng Chen, Weiguo Wu<br>Energies, 2020, 21(13): 5777<br>Nov 2020, SCI
 
   <br>
 
