@@ -10,8 +10,9 @@ Lastest Update: 16th Dec 2023 &nbsp; 
 ## Educational Background
 
 - **Sep 2021 - now:** Xi'an Jiaotong University (PhD candidate)
-- **Sep 2018 - June 2021:** Xi'an Jiaotong University (MESc)
-- **Sep 2014 - June 2018:** Hefei University of Technology (BEng)
+- **Nov 2023 - Oct 2023:** National University of Singapre (CSC Funded)
+- **Sep 2018 - Jun 2021:** Xi'an Jiaotong University (MESc)
+- **Sep 2014 - Jun 2018:** Hefei University of Technology (BEng)
 
 ## Research Experiences
 ### Parallel Computing
@@ -23,7 +24,7 @@ Lastest Update: 16th Dec 2023 &nbsp; 
 ### MPI Communication Modeling
 - Sep 2018 - now
 - Supervised by [Prof. Heng Chen](https://gr.xjtu.edu.cn/web/hengchen) (2018-2021)
-- Research Topics: MPI communication modeling and optimization, computational fluid dynamics, High-performance Cryptography<br>
+- Research Topics: two-sided communication, one-sided communication, collective communication<br>
 
 ### High-Performance Cryptography
 - Sep 2018 - now
@@ -33,17 +34,15 @@ Lastest Update: 16th Dec 2023 &nbsp; 
 ## Teaching Assistant
 - Apr. 2020 - Jul. 2019: Assembly Language, XJTU
 
-
 ## Reviewer
-
 - IEEE/ACM Transactions on computational biology and bioinformatics
 
 ## Scholarships
 
-- Sep 2023: **GuangGu Social Scholarship (Top 3%)**<br>One of the highest undergraduate awards at XJTU
-- Sep 2023: Top-tier Scholarship of PhD, XJTU
-- Sep 2019: Top-tier Scholarship of master, XJTU
-- Sep 2020: Top-tier Scholarship of master, XJTU
+- Oct 2023: **GuangGu Social Scholarship (Top 3%)**<br>One of the highest undergraduate awards at XJTU
+- Oct 2023: Top-tier Scholarship of PhD, XJTU
+- Oct 2019: Top-tier Scholarship of master, XJTU
+- Oct 2020: Top-tier Scholarship of master, XJTU
 
 ## Competitions
 
