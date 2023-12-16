@@ -20,11 +20,11 @@ Lastest Update: 27th Nov 2023&nbsp;
   <br>
 
 ## Journal Paper
-- [Efficient GPU implementations of post-quantum signature XMSS](https://ieeexplore.ieee.org/document/10004747)<br>**Ziheng Wang**, Xiaoshe Dong, Heng Chen, Yan Kang<br>IEEE Transaction on Parallel and Distributed Systems (TPDS), 2023, 34(3): 938-954
+- [Efficient GPU implementations of post-quantum signature XMSS](https://ieeexplore.ieee.org/document/10004747)<br>**Ziheng Wang**, Xiaoshe Dong, Heng Chen, Yan Kang<br>IEEE Transaction on Parallel and Distributed Systems (TPDS), 2023, 34(3): 938-954<br>May 2023
 
 , 
 
-- [LogSC: Model-based one-sided communication performance estimation](https://doi.org/10.1016/j.future.2022.02.004)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Xingjun Zhang.<br>Future Generation Computer Systems (FGCS), 132: 25-39, 2022
+- [LogSC: Model-based one-sided communication performance estimation](https://doi.org/10.1016/j.future.2022.02.004)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Xingjun Zhang.<br>Future Generation Computer Systems (FGCS), 132: 25-39, 2022<br>May 2023
 
 - [EmoMusicTV: Emotion-conditioned Symbolic Music Generation with Hierarchical Transformer VAE](https://ieeexplore.ieee.org/abstract/document/10124351)<br>**Shulei Ji**, Xinyu Yang<br>IEEE Transactions on Multimedia (TMM)<br>May 2023
 
