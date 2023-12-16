@@ -59,17 +59,18 @@ IEEE/ACM Transactions on computational biology and bioinformatics
 
 - The 5th China Parallel Application Challenge on domestic CPU (CPC2021): National Champion, Preliminary and final: Transformer optimization, 2021
 
+- The 9th ``Intel Cup'' Parallel Application Challenge (PAC2021): National bronze prize (6th place), Preliminary: Weighted Back-Projection; final: Barcode map, 2021
+
+- The 18th National Post-graduate Mathematical Contest in Modeling (2021): National Third Prize, Ultra-wide band precise positioning problem under signal interference, 2021
+
 - The 16th National Post-graduate Mathematical Contest in Modeling: National First Prize, Rapid track planning of intelligent aircraft under multiple constraints, 2019
 
 - The 17th National Post-graduate Mathematical Contest in Modeling: National Second Prize, Research on optimal fuel supply strategy of aircraft centre of mass balance, 2020
 
-- The 9th ``Intel Cup'' Parallel Application Challenge (PAC2021): National bronze prize (6th place), Preliminary: Weighted Back-Projection; final: Barcode map, 2021
+- The 9th China Parallel Application Challenge on domestic CPU (CPC2020): Parallel Fund prize (10th place), Preliminary: Breadth-first search; final: general purpose Computation on unstructured grids, 2020
 
 - The 3rd China Parallel Application Challenge on domestic CPU (CPC2019): National bronze prize (7th place), Research on optimal fuel supply strategy of aircraft centre of mass balance, 2019
 
-- The 18th National Post-graduate Mathematical Contest in Modeling (2021): National Third Prize, Ultra-wide band precise positioning problem under signal interference, 2021
-
-- The 9th China Parallel Application Challenge on domestic CPU (CPC2020): Parallel Fund prize (10th place), Preliminary: Breadth-first search; final: general purpose Computation on unstructured grids, 2020
 <!-- - 2018：The Mathematical Contest in Modeling (MCM), Honorable Mention, USA
 - 2017：China Undergraduate Mathematical Contest in Modeling, Second Prize, Shaanxi, China
 - 2017：The International Underwater Robot Competition, Champion, Hefei, China
