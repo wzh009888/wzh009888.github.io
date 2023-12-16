@@ -30,30 +30,20 @@ Lastest Update: 16th Dec 2023 &nbsp; 
 - Supported by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457)
 - Research Topics: Parallel Algorithm Designs of Post-quantum Cryptography such as XMSS, LMS and SPHINCS+<br>
 
-
-
-<!-- ### Music Emotion Recognition
-- Aug 2021 - Aug 2022
-- Supported by Huawei Technologies Co., Ltd. - Major Participant
-- Research Topics: Large-scale Musical Emotion Dataset Construction, Static and Dynamic Music Emotion Recognition -->
-
 ## Teaching Assistant
 - Apr. 2020 - Jul. 2019: Assembly Language, XJTU
 
 
 ## Reviewer
-<!-- - ACM Computing Surveys
-- IEEE Transactions on Multimedia
-- IEEE Transactions on Neural Network and Learning Systems
-- Multimedia Systems -->
-IEEE/ACM Transactions on computational biology and bioinformatics
+
+- IEEE/ACM Transactions on computational biology and bioinformatics
 
 ## Scholarships
 
-- Sep 2023: **Guorui Social Scholarship (Top 3%)**<br>One of the highest undergraduate awards at XJTU
-- Sep 2023: Top-tier Scholarship, XJTU
-- Sep 2021: First Prize Scholarship, XJTU
-- Sep 2019: First Prize Scholarship for freshman, XJTU
+- Sep 2023: **GuangGu Social Scholarship (Top 3%)**<br>One of the highest undergraduate awards at XJTU
+- Sep 2023: Top-tier Scholarship of PhD, XJTU
+- Sep 2019: Top-tier Scholarship of master, XJTU
+- Sep 2020: Top-tier Scholarship of master, XJTU
 
 ## Competitions
 
