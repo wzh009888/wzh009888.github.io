@@ -20,11 +20,15 @@ Lastest Update: 16th Dec 2023&nbsp;
 
 - [SunwayURANS: 3D full annulus URANS simulations of transonic axial compressors on Sunway TaihuLight](https://doi.org/10.1007/s11227-022-04628-8)<br>Heng Chen, **Ziheng Wang**, Xi Xiao, Jingbo Li, Xiaoshe Dong, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 78(17): 19167–19187<br>CCF C, first student author
 
+- [Client-aware negotiation for secure and efficient data transmission](https://doi.org/10.1007/s11227-022-04628-8)<br>**Ziheng Wang**, Heng Chen, Weiguo Wu<br>Energies, 2020, 21(13): 5777<br>SCI
+
   <br>
 
 ## Other Journal Articles
 
+- [Parallel implementations of post-quantum leighton-Micali signature on multiple nodes](https://doi.org/10.1007/s11227-022-04352-3)<br>Yan Kang, Xiaoshe Dong, **Ziheng Wang**, Heng Chen, Qiang Wang<br>The Journal of Supercomputing (TJSC), online<br>CCF C
 
+- [Implementation and optimization of ChaCha20 stream cipher on Sunway TaihuLight supercomputer](https://doi.org/10.1007/s11227-022-04352-3)<br>Weilin Cai, Heng Chen, **Ziheng Wang**, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 78(3): 4199–4216<br>CCF C
 
   <br>
 

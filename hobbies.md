@@ -26,15 +26,4 @@ title: Hobbies
 
 <br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
 
-## Listening to Music of Taylor Swift! 🎧❤️
-<div class="third">
-<img src="/images/taylor1.jpg">
-<img src="/images/taylor2.jpg">
-<img src="/images/taylor3.jpg">
-<img src="/images/taylor4.jpg">
-<img src="/images/taylor5.jpg">
-<img src="/images/taylor6.jpg">
-</div>
-<br>I am a big fan of Taylor Swift. I like Taylor because she is a hardworking, talented, and successful woman who inspires me in various aspects of life, motivating me to strive towards my goals.
-
 
