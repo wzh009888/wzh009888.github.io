@@ -11,7 +11,7 @@ title: Hobbies
 ## Taking photos 📷❤️
 <div class="third">
 <img src="/images/1.jpg">
-<img src="/images/2.jpg">
+<img src="/images/7.jpg">
 <img src="/images/3.jpg">
 </div>
 
@@ -22,7 +22,7 @@ title: Hobbies
 </div>
 
 <div class="third">
-<img src="/images/7.jpg">
+<img src="/images/2.jpg">
 <img src="/images/8.jpg">
 <img src="/images/9.jpg">
 </div>
