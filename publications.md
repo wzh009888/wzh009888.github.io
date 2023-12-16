@@ -20,8 +20,7 @@ Lastest Update: 27th Nov 2023&nbsp;
   <br>
 
 ## Journal Paper
-
-- [A Survey on Deep Learning for Symbolic Music Generation: Representations, Algorithms, Evaluations, and Challenges](https://dl.acm.org/doi/abs/10.1145/3597493)<br>**Shulei Ji**, Xinyu Yang, Jing Luo<br>ACM Computing Surveys, Volume 56, Issue 1, Article No.: 7, pp 1–39<br>August 2023
+- [Efficient GPU implementations of post-quantum signature XMSS](https://ieeexplore.ieee.org/document/10004747)<br>**Ziheng Wang**, Xiaoshe Dong, Heng Chen, Yan Kang<br>IEEE Transaction on Parallel and Distributed Systems (TPDS), 2023, 34(3): 938-954<br>March 2023
 
 - [RL-Chord: CLSTM-Based Melody Harmonization Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10063204)<br>**Shulei Ji**, Xinyu Yang, Jing Luo, Juan Li<br>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)<br>March 2023
 
