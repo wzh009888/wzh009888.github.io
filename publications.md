@@ -24,13 +24,9 @@ Lastest Update: 16h Dec 2023&nbsp;
 
 - [LogSC: Model-based one-sided communication performance estimation](https://doi.org/10.1016/j.future.2022.02.004)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Xingjun Zhang.<br>Future Generation Computer Systems (FGCS), 132: 25-39, 2022<br>Q1
 
-\cvevent
-	{C刊, 3区}
-	{. , } -->
-
 - [C-Lop: Accurate contention-based modeling of MPI concurrent communication](https://doi.org/10.1016/j.parco.2022.102925)<br>**Ziheng Wang**, Heng Chen, Weilin Cai, Xiaoshe Dong, Xingjun Zhang<br>Parallel Computing (PC), 2022, 111: 102925<br>CCF B
 
-- [Parallel SHA 256 on SW26010 many-core processor for hashing of multiple messages](https://doi.org/10.1007/s11227-022-04750-7)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Yan Kang, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 79(2): 2332–2355<br>CCF C
+- [Parallel SHA 256 on SW26010 many-core processor for hashing of multiple messages](https://doi.org/10.1007/s11227-022-04750-7)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Yan Kang, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 79(2): 2332–2355<br>CCF C, 交大知名
 
 - [Extending $\tau$-Lop to model MPI blocking primitives on shared memory](https://doi.org/10.1007/s11227-022-04750-7)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen<br>The Journal of Supercomputing (TJSC), 2022, 78(9): 12046–12069<br>CCF C
 
