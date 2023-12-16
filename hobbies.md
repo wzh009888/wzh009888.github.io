@@ -27,10 +27,10 @@ title: Hobbies
 <img src="/images/9.jpg">
 </div> -->
 
-<div class="second">
+<!-- <div class="second">
 <img src="/images/10.jpg">
 <img src="/images/12.jpg">
-</div>
+</div> -->
 
 <br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
 
