@@ -8,7 +8,9 @@ title: Hobbies
 
 ## Singing
 
-## Taking photos 📷❤️
+## Taking photos 
+
+### Su Zhou
 <div class="third">
 <img src="/images/1.jpg">
 <img src="/images/5.jpg">
