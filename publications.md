@@ -24,7 +24,7 @@ Lastest Update: 27th Nov 2023&nbsp;
 
 , 
 
-- [LogSC: Model-based one-sided communication performance estimation](https://ieeexplore.ieee.org/abstract/document/10063204)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Xingjun Zhang.<br>Future Generation Computer Systems (FGCS), 132: 25-39, 2022<br>2022
+- [LogSC: Model-based one-sided communication performance estimation](https://doi.org/10.1016/j.future.2022.02.004)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Xingjun Zhang.<br>Future Generation Computer Systems (FGCS), 132: 25-39, 2022<br>2022
 
 - [EmoMusicTV: Emotion-conditioned Symbolic Music Generation with Hierarchical Transformer VAE](https://ieeexplore.ieee.org/abstract/document/10124351)<br>**Shulei Ji**, Xinyu Yang<br>IEEE Transactions on Multimedia (TMM)<br>May 2023
 
