@@ -36,7 +36,7 @@ Lastest Update: 16th Dec 2023&nbsp;
 
 - [A hybrid CPU/GPU scheme for optimizing ChaCha20 stream cipher](https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom52081.2021.00161)<br>**Ziheng Wang**, Heng Chen, Weilin Cai<br>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), pp 1171-1178, 2021<br>30 Sep 2021, CCF C
 
-- [Flexible supervision system: a fast fault-tolerance strategy for cloud applications in cloud-edge collaborative environments](https://doi.org/10.1007/978-3-031-21395-3_10)<br>Weilin Cai, Heng Chen, Zhimin Zhuo, **Ziheng Wang**, Ninggang An<br>IEEE International Symposium on Parallel and Distributed Processing with Applications (NPC), pp 108-113, 2022<br> CCF C
+- [Flexible supervision system: a fast fault-tolerance strategy for cloud applications in cloud-edge collaborative environments](https://doi.org/10.1007/978-3-031-21395-3_10)<br>Weilin Cai, Heng Chen, Zhimin Zhuo, **Ziheng Wang**, Ninggang An<br>IEEE International Symposium on Parallel and Distributed Processing with Applications (NPC), pp 108-113, 2022<br>01 Dec 2022. CCF C
 
   <br>
 
