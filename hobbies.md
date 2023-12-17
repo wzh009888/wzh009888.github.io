@@ -34,6 +34,6 @@ title: Hobbies
 <img src="/images/12.jpg">
 </div>
 
-<br>I enjoy taking photos to capture the beauty in life, which will be a valuable treasure for the future.
+<br> More photos are adding.
 
 
