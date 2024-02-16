@@ -22,22 +22,13 @@ If you would like to chat or collaborate, please email me at - *wzh009888@gmail.
 - High-Performance Cryptography
 - Workload Scheduling of LLMs
 
-<!-- My current research focuses on automatic music generation using artificial intelligence techniques. My interests are on the **Deep Generative Model** and its applications in **Intelligent Music Generation**. Automatic music generation represents an innovative approach in advancing the field of music. I aspire to contribute my talents to this realm, aiming to introduce fresh opportunities and possibilities for music creation, education, and entertainment. -->
-
 <br>
 
 ---
 
 ## News and Updates
-
-<!-- - **December 2023：** One paper accepted to AAAI 2024! -->
-<!-- - **June 2023：** One paper accepted to IEEE SMC 2023. -->
-<!-- - **May 2023：** One paper accepted to TMM. -->
-<!-- - **May 2023：** One paper accepted to ACM Computing Surveys. -->
-- **February 2023：** One paper accepted to TPDS.
+- **February 2024:** Open CSDN blog: https://blog.csdn.net/qq_33345365?spm=1011.2415.3001.5343.
+- **February 2023:** One paper accepted to TPDS.
 <br>
-
-<!-- --- -->
-<!-- [![Visit tracker](https://clustrmaps.com/map_v2.png?cl=1768c4&w=a&t=n&d=pQyQkYWJ9EDu14vZFBycodEL-DKMU1JphEVRBVMsQAc&co=ffffff)](https://clustrmaps.com/site/1bxtl) -->
 
 
