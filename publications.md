@@ -10,7 +10,7 @@ Lastest Update: 16th Dec 2023&nbsp;
 ## Journal Articles of the First Author
 - [Efficient GPU implementations of post-quantum signature XMSS](https://doi.org/10.1109/TPDS.2022.3233348)<br>**Ziheng Wang**, Xiaoshe Dong, Heng Chen, Yan Kang<br>IEEE Transaction on Parallel and Distributed Systems (TPDS), 2023, 34(3): 938-954<br>2 Jun 2023, CCF A
 
-- [Parallel SHA 256 on SW26010 many-core processor for hashing of multiple messages](https://doi.org/10.1007/s11227-022-04750-7)<br>**Ziheng Wang**, Heng Chen, Xiaoshe Dong, Weilin Cai, Yan Kang, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 79(2): 2332–2355<br>13 Aug 2022, CCF C, 交大知名
+- [Parallel SHA 256 on SW26010 many-core processor for hashing of multiple messages](https://doi.org/10.1007/s11227-022-04750-7)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen<br>The Journal of Supercomputing (TJSC), 2022, 79(2): 2332–2355<br>13 Aug 2022, CCF C, 交大知名
 
 - [SunwayURANS: 3D full annulus URANS simulations of transonic axial compressors on Sunway TaihuLight](https://doi.org/10.1007/s11227-022-04628-8)<br>Heng Chen, **Ziheng Wang**, Xi Xiao, Jingbo Li, Xiaoshe Dong, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 78(17): 19167–19187<br>17 Jun 2022, CCF C, first student author
 
