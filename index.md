@@ -27,8 +27,9 @@ If you would like to chat or collaborate, please email me at - *wzh009888@gmail.
 ---
 
 ## News and Updates
+- **April 2024:** One paper was accepted by TACO (CCF A).
 - **February 2024:** Open CSDN blog: https://blog.csdn.net/qq_33345365?spm=1011.2415.3001.5343.
-- **February 2023:** One paper was accepted by TPDS.
+- **February 2023:** One paper was accepted by TPDS (CCF A).
 <br>
 
 
