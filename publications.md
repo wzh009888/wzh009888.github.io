@@ -8,6 +8,9 @@ Lastest Update: 16th Dec 2023&nbsp;
 <!--[中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)-->
 
 ## Journal Articles of the First Author
+- [An Example of Parallel Merkle Tree Traversal: Post-Quantum Leighton-Micali Signature on the GPU](https://doi.org/10.1145/3659209)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, 
+Heng Chen, Qiang Wang<br>ACM Transactions on Architecture and Code Optimization (TACO), Just accepted<br>April 2024, CCF A
+
 - [Efficient GPU implementations of post-quantum signature XMSS](https://doi.org/10.1109/TPDS.2022.3233348)<br>**Ziheng Wang**, Xiaoshe Dong, Heng Chen, Yan Kang<br>IEEE Transaction on Parallel and Distributed Systems (TPDS), 2023, 34(3): 938-954<br>2 Jun 2023, CCF A
 
 - [Parallel SHA 256 on SW26010 many-core processor for hashing of multiple messages](https://doi.org/10.1007/s11227-022-04750-7)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen<br>The Journal of Supercomputing (TJSC), 2022, 79(2): 2332–2355<br>13 Aug 2022, CCF C, 交大知名
