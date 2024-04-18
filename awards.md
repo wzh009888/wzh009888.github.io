@@ -5,7 +5,6 @@ title: Experiences
 ---
 
 Lastest Update: 16th Dec 2023 &nbsp; 
-<!--[中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)-->
 
 ## Educational Background
 

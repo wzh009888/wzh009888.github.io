@@ -5,7 +5,6 @@ title: Publications
 ---
 
 Lastest Update: 16th Dec 2023&nbsp;  
-<!--[中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)-->
 
 ## Journal Articles of the First Author
 - [An Example of Parallel Merkle Tree Traversal: Post-Quantum Leighton-Micali Signature on the GPU](https://doi.org/10.1145/3659209)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, 
