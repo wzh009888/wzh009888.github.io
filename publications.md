@@ -4,13 +4,12 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 16th Dec 2023&nbsp;  
+Lastest Update: 5th Sep 2024&nbsp;  
 
 ## Journal Articles of the First Author
-- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, [An Example of Parallel Merkle Tree Traversal: Post-Quantum Leighton-Micali Signature on the GPU](https://doi.org/10.1145/3659209), ACM Transactions on Computers (TC), Just accepted<br>September 2024, CCF A
+- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, CUSPX: Efficient GPU Implementations of Post-Quantum Signature SPHINCS+, ACM Transactions on Computers (TC), 2024, Just accepted, CCF A, No Publication
 
-- [An Example of Parallel Merkle Tree Traversal: Post-Quantum Leighton-Micali Signature on the GPU](https://doi.org/10.1145/3659209)<br>**Ziheng Wang**, Xiaoshe Dong, Yan Kang, 
-Heng Chen, Qiang Wang<br>ACM Transactions on Architecture and Code Optimization (TACO), Just accepted<br>April 2024, CCF A
+- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, An Example of Parallel Merkle Tree Traversal: Post-Quantum Leighton-Micali Signature on the GPU, ACM Transactions on Architecture and Code Optimization (TACO), 2024, Just accepted, CCF A, [Link](https://doi.org/10.1145/3659209)
 
 - [Efficient GPU implementations of post-quantum signature XMSS](https://doi.org/10.1109/TPDS.2022.3233348)<br>**Ziheng Wang**, Xiaoshe Dong, Heng Chen, Yan Kang<br>IEEE Transaction on Parallel and Distributed Systems (TPDS), 2023, 34(3): 938-954<br>2 Jun 2023, CCF A
 
