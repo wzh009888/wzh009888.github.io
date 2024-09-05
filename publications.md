@@ -29,24 +29,22 @@ Lastest Update: 5th Sep 2024&nbsp;
 
 ## Co-Authored Journal Articles
 
-- [Parallel implementations of post-quantum leighton-Micali signature on multiple nodes](https://doi.org/10.1007/s11227-023-05662-w)<br>Yan Kang, Xiaoshe Dong, **Ziheng Wang**, Heng Chen, Qiang Wang<br>The Journal of Supercomputing (TJSC), online<br>22 Sep 2023, CCF C
+- Yan Kang, Xiaoshe Dong, **Ziheng Wang**, Heng Chen, Qiang Wang, Parallel implementations of post-quantum leighton-Micali signature on multiple nodes, The Journal of Supercomputing (TJSC), 2024, 80(4):5042-5072, CCF C, Pub-data: 22 Sep 2023, [Link](https://doi.org/10.1007/s11227-023-05662-w)
 
-- [Implementation and optimization of ChaCha20 stream cipher on Sunway TaihuLight supercomputer](https://doi.org/10.1007/s11227-022-04352-3)<br>Weilin Cai, Heng Chen, **Ziheng Wang**, Xingjun Zhang<br>The Journal of Supercomputing (TJSC), 2022, 78(3): 4199–4216<br>24 Aug 2021, CCF C
+- Weilin Cai, Heng Chen, **Ziheng Wang**, Xingjun Zhang, Implementation and optimization of ChaCha20 stream cipher on Sunway TaihuLight supercomputer, The Journal of Supercomputing (TJSC), 2022, 78(3): 4199–4216, CCF C, Pub-data: 24 Aug 2021, [Link](https://doi.org/10.1007/s11227-022-04352-3)
 
   <br>
 
 ## Conference Paper
 
-- [A hybrid CPU/GPU scheme for optimizing ChaCha20 stream cipher](https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom52081.2021.00161)<br>**Ziheng Wang**, Heng Chen, Weilin Cai<br>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), pp 1171-1178, 2021<br>30 Sep 2021, CCF C
+- **Ziheng Wang**, Heng Chen, Weilin Cai, A hybrid CPU/GPU scheme for optimizing ChaCha20 stream cipher, IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), pp 1171-1178, 2021, CCF C, conf-data: 30 Sep 2021, [Link](https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom52081.2021.00161)
 
-- [Flexible supervision system: a fast fault-tolerance strategy for cloud applications in cloud-edge collaborative environments](https://doi.org/10.1007/978-3-031-21395-3_10)<br>Weilin Cai, Heng Chen, Zhimin Zhuo, **Ziheng Wang**, Ninggang An<br>IEEE International Symposium on Parallel and Distributed Processing with Applications (NPC), pp 108-113, 2022<br>01 Dec 2022, CCF C
+- Weilin Cai, Heng Chen, Zhimin Zhuo, **Ziheng Wang**, Ninggang An, Flexible supervision system: a fast fault-tolerance strategy for cloud applications in cloud-edge collaborative environments, IEEE International Symposium on Parallel and Distributed Processing with Applications (NPC), pp 108-113, 2022, CCF C, conf-data:01 Dec 2022, [Link](https://doi.org/10.1007/978-3-031-21395-3_10)
 
   <br>
 
 ## Preprints (no review)
 
 - To be published
-
-<!-- - [A comprehensive survey on deep music generation: Multi-level representations, algorithms, evaluations, and future directions](https://arxiv.org/abs/2011.06801)<br>**Shulei Ji**, Jing Luo, Xinyu Yang<br>Nov 2020 -->
 
   <br>
