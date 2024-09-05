@@ -17,18 +17,18 @@ Lastest Update: 16th Dec 2023 &nbsp; 
 ### Parallel Computing
 - Sep 2018 - now
 - Supervised by [Prof. Heng Chen](https://gr.xjtu.edu.cn/web/hengchen) (2018-2021)
-- Supervised by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457) (2021-2024)
+- Supervised by [Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home) (2021-2024)
 - Research Topics: MPI communication modeling and optimization, computational fluid dynamics, High-performance Cryptography<br>
+
+### High-Performance Cryptography
+- Sep 2021 - now
+- Supported by [Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home)
+- Research Topics: Parallel Algorithm Designs of Post-quantum Cryptography such as XMSS, LMS and SPHINCS+<br>
 
 ### MPI Communication Modeling
 - Sep 2018 - now
 - Supervised by [Prof. Heng Chen](https://gr.xjtu.edu.cn/web/hengchen) (2018-2021)
 - Research Topics: two-sided communication, one-sided communication, collective communication<br>
-
-### High-Performance Cryptography
-- Sep 2018 - now
-- Supported by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457)
-- Research Topics: Parallel Algorithm Designs of Post-quantum Cryptography such as XMSS, LMS and SPHINCS+<br>
 
 ## Teaching Assistant
 - Apr. 2020 - Jul. 2019: Assembly Language, XJTU
