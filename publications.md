@@ -7,7 +7,7 @@ title: Publications
 Lastest Update: 5th Sep 2024&nbsp;  
 
 ## Journal Articles of the First Author
-- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, CUSPX: Efficient GPU Implementations of Post-Quantum Signature SPHINCS+, ACM Transactions on Computers (TC), 2024, Just accepted, CCF A, No Publication
+- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, CUSPX: Efficient GPU Implementations of Post-Quantum Signature SPHINCS+, ACM Transactions on Computers (TC), 2024, Just accepted, CCF A, [Link](https://dx.doi.org/10.1109/TC.2024.3457736)
 
 - **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, An Example of Parallel Merkle Tree Traversal: Post-Quantum Leighton-Micali Signature on the GPU, ACM Transactions on Architecture and Code Optimization (TACO), 2024, Just accepted, CCF A, [Link](https://doi.org/10.1145/3659209)
 
