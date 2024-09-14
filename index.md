@@ -8,7 +8,7 @@ layout: page
 
 Here is **Ziheng Wang (王子衡)**.
 
-I am a PhD student majoring in **CS** at Xi'an Jiaotong University, advised by [Prof. Xiaoshe Dong](http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=457).
+I am a PhD student majoring in **CS** at Xi'an Jiaotong University, advised by [Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home).
 
 If you would like to chat or collaborate, please email me at - *wzh009888@gmail.com*.
 
