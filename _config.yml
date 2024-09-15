@@ -25,12 +25,12 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: Chinese
+    url: /chinese/
   - title: Publications
     url: /publications/
   - title: Study Experiences
     url: /awards/
-#  - title: Teams
-#    url: /teams/
   - title: Hobbies
     url: /hobbies/
 
