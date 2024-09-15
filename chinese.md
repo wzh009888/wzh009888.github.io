@@ -8,9 +8,9 @@ title: Chinese
 
 <img src="/images/wangziheng.jpg" class="floatpic" width="200" height="200">
 
-Here is **Ziheng Wang (王子衡)**.
+我叫**Ziheng Wang (王子衡)**.
 
-I am a PhD student majoring in **CS** at 西安交通大学, advised by [Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home).
+西安交通大学计算机科学与技术学院博士研究生在读，博士生导师是[Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home).
 
 If you would like to chat or collaborate, please email me at - *wzh009888@outlook.com*.
 
@@ -20,19 +20,19 @@ If you would like to chat or collaborate, please email me at - *wzh009888@outloo
 
 ## Research Interests
 
-- Parallel Computing
-- High-Performance Cryptography
-- Workload Scheduling of LLMs
+- 并行计算
+- 高性能密码学
+- LLM的工作流调度
 
 <br>
 
 ---
 
 ## News and Updates
-- **September 2024:** One paper was accepted by TC (CCF A).
-- **April 2024:** One paper was accepted by TACO (CCF A).
-- **February 2024:** Open CSDN blog: https://blog.csdn.net/qq_33345365?spm=1011.2415.3001.5343.
-- **February 2023:** One paper was accepted by TPDS (CCF A).
+- **September 2024:** 一篇论文被TC接收(CCF A).
+- **April 2024:** 一篇论文被TACO接收(CCF A).
+- **February 2024:** 开CSDN博客: https://blog.csdn.net/qq_33345365?spm=1011.2415.3001.5343.
+- **February 2023:** 一篇论文被TPDS接收(CCF A).
 <br>
 
 
