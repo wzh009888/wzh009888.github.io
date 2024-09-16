@@ -20,7 +20,7 @@ If you would like to chat or collaborate, please email me at - *wzh009888@outloo
 
 - Parallel Computing
 - High-Performance Cryptography
-- Workload Scheduling of LLMs
+- MPI Communication Modeling
 
 <br>
 
