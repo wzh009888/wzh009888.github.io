@@ -4,15 +4,9 @@ layout: page
 
 # English Page
 
-<!-- <img src="/images/wangziheng.jpg" class="floatpic" width="200" height="200"> -->
-
-
 I am a Ph.D. student at the School of Computer Science and Technology, Xi’an Jiaotong University, advised by [Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home). 
 My research interests lie in parallel computing. 
 
-<br>
-
----
 
 ## Research Interests
 
@@ -20,7 +14,6 @@ My research interests lie in parallel computing.
 - High-Performance Cryptography
 - MPI Communication Modeling
 
-<br>
 
 ## Educational Background
 
@@ -51,9 +44,6 @@ My research interests lie in parallel computing.
 - The 5th China Parallel Application Challenge on domestic CPU (CPC2021): **National Champion**, Preliminary and final: Transformer optimization, 2021
 
 - The 16th National Post-graduate Mathematical Contest in Modeling: **National First Prize**, Rapid track planning of intelligent aircraft under multiple constraints, 2019
-
-
----
 
 ## Selected Publications
 - **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, CUSPX: Efficient GPU Implementations of Post-Quantum Signature SPHINCS+, ACM Transactions on Computers (TC), 2024, Just accepted, CCF A, [Link](https://doi.org/10.1109/TC.2024.3457736)
