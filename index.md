@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# English Page
+# About me
 
 I am a Ph.D. student at the School of Computer Science and Technology, Xi’an Jiaotong University, advised by [Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home). 
 My research interests lie in parallel computing. 
