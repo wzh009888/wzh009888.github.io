@@ -4,10 +4,10 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Sep 2024&nbsp;  
+Lastest Update: 19th Oct 2024&nbsp;
 
 ## Journal Articles of the First Author
-- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, CUSPX: Efficient GPU Implementations of Post-Quantum Signature SPHINCS+, ACM Transactions on Computers (TC), 2024, Just accepted, CCF A, [Link](https://doi.org/10.1109/TC.2024.3457736)
+- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, CUSPX: Efficient GPU Implementations of Post-Quantum Signature SPHINCS+, ACM Transactions on Computers (TC), 2024, online, CCF A, [Link](https://doi.org/10.1109/TC.2024.3457736)
 
 - **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, An Example of Parallel Merkle Tree Traversal: Post-Quantum Leighton-Micali Signature on the GPU, ACM Transactions on Architecture and Code Optimization (TACO), 2024, 21(3): 1-25, CCF A, [Link](https://doi.org/10.1145/3659209)
 
@@ -40,11 +40,5 @@ Lastest Update: 15th Sep 2024&nbsp;
 - **Ziheng Wang**, Heng Chen, Weilin Cai, A hybrid CPU/GPU scheme for optimizing ChaCha20 stream cipher, IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), pp 1171-1178, 2021, CCF C, conf-data: 30 Sep 2021, [Link](https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom52081.2021.00161)
 
 - Weilin Cai, Heng Chen, Zhimin Zhuo, **Ziheng Wang**, Ninggang An, Flexible supervision system: a fast fault-tolerance strategy for cloud applications in cloud-edge collaborative environments, IEEE International Symposium on Parallel and Distributed Processing with Applications (NPC), pp 108-113, 2022, CCF C, conf-data:01 Dec 2022, [Link](https://doi.org/10.1007/978-3-031-21395-3_10)
-
-  <br>
-
-## Preprints (no review)
-
-- To be published
 
   <br>
