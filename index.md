@@ -17,7 +17,7 @@ My research interests lie in parallel computing.
 
 ## Employment
 
-- **March 2025 - present:** Postdoctor, School of Computer Science and Technology, Xi'an Jiaotong University
+- **March 2025 - present:** Assistant Professor (Postdoctor), School of Computer Science and Technology, Xi'an Jiaotong University
 
 ## Educational Background
 
