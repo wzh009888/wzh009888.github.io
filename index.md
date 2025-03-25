@@ -4,7 +4,7 @@ layout: page
 
 # About me
 
-I am a Ph.D. student at the School of Computer Science and Technology, Xi'an Jiaotong University, advised by [Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home). 
+I am a postdoctor at the School of Computer Science and Technology, Xi'an Jiaotong University. Cooperation Supervisor is [Prof. Xiaoshe Dong](https://gr.xjtu.edu.cn/en/web/xsdong/home).
 My research interests lie in parallel computing. 
 
 
@@ -15,9 +15,13 @@ My research interests lie in parallel computing.
 - MPI Communication Modeling
 
 
+## Employment
+
+- **March 2025 - present:** Postdoctor, School of Computer Science and Technology, Xi'an Jiaotong University
+
 ## Educational Background
 
-- **Sep 2021 - now:** Xi'an Jiaotong University (PhD candidate)
+- **Sep 2021 - Dec 2024:** Xi'an Jiaotong University (PhD candidate)
 - **Nov 2023 - Oct 2024:** National University of Singapore (CSC Funded)
 - **Sep 2018 - Jun 2021:** Xi'an Jiaotong University (MESc)
 - **Sep 2014 - Jun 2018:** Hefei University of Technology (BEng)
