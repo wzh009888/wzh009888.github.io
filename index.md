@@ -50,7 +50,7 @@ My research interests lie in parallel computing.
 - The 16th National Post-graduate Mathematical Contest in Modeling: **National First Prize**, Rapid track planning of intelligent aircraft under multiple constraints, 2019
 
 ## Selected Publications
-- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, CUSPX: Efficient GPU Implementations of Post-Quantum Signature SPHINCS+, ACM Transactions on Computers (TC), 2024, Just accepted, CCF A, [Link](https://doi.org/10.1109/TC.2024.3457736)
+- **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, CUSPX: Efficient GPU Implementations of Post-Quantum Signature SPHINCS+, ACM Transactions on Computers (TC), 2024, 74(1): 15-28, CCF A, [Link](https://doi.org/10.1109/TC.2024.3457736)
 
 - **Ziheng Wang**, Xiaoshe Dong, Yan Kang, Heng Chen, Qiang Wang, An Example of Parallel Merkle Tree Traversal: Post-Quantum Leighton-Micali Signature on the GPU, ACM Transactions on Architecture and Code Optimization (TACO), 2024, 21(3): 1-25, CCF A, [Link](https://doi.org/10.1145/3659209)
 
